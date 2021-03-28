@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp"
+    }
+}
