@@ -1,0 +1,21 @@
+# Heading
+
+## sub-heading
+
+###  third head
+
+######    six   heading
+
+Paragraphs are separated
+by a blank line.
+
+Text attributes _italic_.
+
+Bullet list:
+
+* apples
+* oranges
+* peargs
+
+A [l_in_k](http://example.com).
+A _[link](http://example.com)._
